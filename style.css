@@ -1,0 +1,38 @@
+body {
+    background: #f3f3f3;
+    color: #000000;
+    font-family: "Trebuchet MS", Arial, "Times New Roman";
+    font-size: 12px;
+}
+
+#container {
+    background: #ffffff;
+    margin: 30px auto;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#image1 {
+    background: #7bff7b;
+    height: 100px;
+    width: 100%;
+}
+
+#text1 {
+    background: #7b7bff;
+    height: 200px;
+    width: 25%;
+}
+
+#image2 {
+    background: #add8e6;
+    height: 200px;
+    width: 75%;
+}
+
+#text2 {
+    background: #ffffb3;
+    height: 100px;
+    width: 100%;
+}
